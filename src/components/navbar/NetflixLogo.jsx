@@ -1,5 +1,5 @@
-import reactLogo from '../../assets/react.svg'
+import netflixLogo from '../../assets/netflix.svg'
 
 export default function NetflixLogo() {
-    return <><img src={reactLogo} /></>
+    return <><img src={netflixLogo} /></>
 }
