@@ -1,13 +1,14 @@
 [
-    { "src": "https://via.placeholder.com/150x150", "alt": "action1" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "action2" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "action3" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "action4" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "action5" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "action6" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "action7" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "action1", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "action2", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "action3", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "action4", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "action5", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "action6", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "action7", "title": "Ant Man" },
     {
         "src": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/43346/square_thumb%402x.jpg",
-        "alt": "ant-man"
+        "alt": "ant-man",
+        "title": ""
     }
 ]

@@ -1,10 +1,14 @@
 [
-    { "src": "https://via.placeholder.com/150x150", "alt": "comedy1" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "comedy2" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "comedy3" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "comedy4" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "comedy5" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "comedy6" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "comedy7" },
-    { "src": "https://via.placeholder.com/150x150", "alt": "comedy8" }
+    {
+        "src": "https://www.dvdtalk.com/reviews/images/reviews/103/1098621400.jpg",
+        "alt": "comedy1",
+        "title": ""
+    },
+    { "src": "https://via.placeholder.com/150x150", "alt": "comedy2", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "comedy3", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "comedy4", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "comedy5", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "comedy6", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "comedy7", "title": "" },
+    { "src": "https://via.placeholder.com/150x150", "alt": "comedy8", "title": "" }
 ]
