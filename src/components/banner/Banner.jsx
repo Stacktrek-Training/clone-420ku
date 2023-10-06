@@ -1,9 +1,12 @@
-import bannerImage from "../../assets/banner.svg";
+import bannerImage from "../../assets/video.mp4";
+import "./Banner.css";
 
 export default function BannerImage() {
     return (
         <>
-            <img src={bannerImage} />
+            <video autoPlay loop muted controls poster="../../assets/banner.svg">
+                <source src={bannerImage} />
+            </video>
         </>
     );
 }
