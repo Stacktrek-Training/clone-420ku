@@ -1,5 +1,9 @@
-import netflixLogo from '../../assets/netflix.svg'
+import netflixLogo from "../../assets/netflix.svg";
 
 export default function NetflixLogo() {
-    return <><img src={netflixLogo} /></>
+  return (
+    <>
+      <img src={netflixLogo} />
+    </>
+  );
 }
