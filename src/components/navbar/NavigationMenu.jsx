@@ -1,16 +1,25 @@
+import { Link } from "react-router-dom";
+
 export default function NavigationMenu() {
-    return <label>
-        <select>
-            <option value="browse">Browse</option>
-            <option value="home">Home</option>
-            <option value="tvshows">TV Shows</option>
-            <option value="movies">Movies</option>
-            <option value="popular">Popular</option>
-            <option value="mylist">My List</option>
-            <option value="bylanguage">Browse by Language</option>
-        </select>
-
-
-
-    </label >
+  const pages = [
+    { nav: "Home", link: "/" },
+    { nav: "Contact", link: "/contact" },
+    { nav: "About us", link: "/about" },
+    { nav: "Login", link: "/login" },
+  ];
+  return (
+    <>
+      {pages.map((page) => (
+        <Link
+          key={page.nav}
+          to={page.link}
+          style={{
+            textDecoration: "none",
+            cursor: "default",
+          }}>
+          <button>{page.nav}</button>
+        </Link>
+      ))}
+    </>
+  );
 }

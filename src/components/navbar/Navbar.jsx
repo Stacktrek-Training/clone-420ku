@@ -6,12 +6,12 @@ import "./Navbar.css";
 import "./NavigationMenu.css";
 
 export default function Navbar() {
-    return (
-        <nav>
-            <NetflixLogo />
-            <NavigationMenu />
-            <SearchBar />
-            <NotificationIcon />
-        </nav>
-    );
+  return (
+    <nav>
+      <NetflixLogo />
+      <NavigationMenu />
+      <SearchBar />
+      <NotificationIcon />
+    </nav>
+  );
 }
